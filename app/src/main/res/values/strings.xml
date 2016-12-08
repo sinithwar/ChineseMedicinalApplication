@@ -1,30 +1,66 @@
 <resources>
     <string name="app_name">ChineseMedicinalApplication</string>
-    Chinese Herbs
-    Underneath each section, you will find a Suggest Herbs for that section but you will find out what they do here. These herbs can go into any recipe that we provide you and these are Chinese Herbs that are in current use today. These are the most popular of all the Chinese Herbs and are a footstep into Chinese Herbology. Chinese Herbology is not strictly plants, albeit the name suggests otherwise, but rather a mixture of plants and herbs along with other common food ingredients. The idea is to mix these foods into your diet so that you can improve via your food, which we therefore will go over the 5 Element Diet, which is a Chinese Diet that is specifically intended to help your specific area of issue improve over time.
-    Ginseng
-    Ginseng will target Organ issues in general dealing with the blood cleansing, so Heart, Kidney, Liver, and Lungs.
-    Ginko
-    Gino is a herb that specifically helps the brain and is used in common practice for issues like Lyme disease and depression.
-    Shiitake Mushrooms
-    Shiitake Mushrooms have been documented in being able to reduce the cholesterol in the heart, increase the protection against heart disease, and is a wonderful anti-oxidant.
-    Dang Gui
-    Dang Gui is another herb that helps with the heart and the circulation flow, but it's specifically beneficial to women and not so much men as it boosts their reproductive health by balancing estrogen.
-    Cinnamon
-    Cinnamon is a well known herb, both for medicinal and sweet tooth reasons. It's good for the heart, helps fight diabetes, cognitive decline, infections, dental disease and has a lot of anti-oxidants in it.
-    Ginger
-    Ginger helps with digestion and heart problems. Ginger is most noticeably used in Ginger ale, which is commonly used to treat slight nausea.
-    Licorice
-    Licorice is an immunity booster that helps fight pain, stress, and chronic fatigue.
-    Ephedra
-    Ephedra is an energy booster that increase the speed at which all organs in your body function. This includes the brain. As a result of this, it boosts immunity, cognition, and weight loss.
-    Peony
-    Peony is a great herb for the heart, chronic fatigue, stomach issues, and hemorrhoids.
-    Rhubarb
-    Rhubarb is an herb that's great for boosting the immune system and has shown to have significant effects in stopping diseases.
-    Salvia
-    Salvia is a hallucinogen drug that has been used for a long time to help individuals who deal with depression. In high amounts, this herb will cause a full on hallucination that will last for around 15 minutes and will leave most individuals in a much calmer state.
-    Page Break
+
+
+    <!--Herbs-->
+    <string name="herb_title">Chinese Herbs</string>
+    <string name="herb_description">Underneath each section, you will find a Suggest Herbs for that section but you will
+        find out what they do here. These herbs can go into any recipe that we provide you and these are Chinese Herbs
+        that are in current use today. These are the most popular of all the Chinese Herbs and are a footstep into
+        Chinese Herbology. Chinese Herbology is not strictly plants, albeit the name suggests otherwise, but rather a
+        mixture of plants and herbs along with other common food ingredients. The idea is to mix these foods into your
+        diet so that you can improve via your food, which we therefore will go over the 5 Element Diet, which is a
+        Chinese Diet that is specifically intended to help your specific area of issue improve over time.
+    </string>
+    <string name="herb_1_ginseng">Ginseng</string>
+    <string name="herb_1_ginseng_description">Ginseng will target Organ issues in general dealing with the blood
+        cleansing, so Heart, Kidney, Liver, and Lungs.
+    </string>
+    <string name="herb_2_Ginko">Ginko</string>
+    <string name="herb_2_Ginko_description">Gino is a herb that specifically helps the brain and is used in common
+        practice for issues like Lyme disease and depression.
+    </string>
+    <string name="herb_3_shitake_mushrooms">Shiitake Mushrooms</string>
+    <string name="herb_3_sh_mush_description">Shiitake Mushrooms have been documented in being able to reduce the
+        cholesterol in the heart, increase the protection against heart disease, and is a wonderful anti-oxidant.
+    </string>
+    <string name="herb_4_Dang_Gui">Dang Gui</string>
+    <string name="herb_4_Dang_Gui_description">Dang Gui is another herb that helps with the heart and the circulation
+        flow, but it's specifically beneficial to women and not so much men as it boosts their reproductive health by
+        balancing estrogen.
+    </string>
+    <string name="herb_5_Cinnamon">Cinnamon</string>
+    <string name="herb_5_Cinnamon_description">Cinnamon is a well known herb, both for medicinal and sweet tooth
+        reasons. It's good for the heart, helps fight diabetes, cognitive decline, infections, dental disease and has a
+        lot of anti-oxidants in it.
+    </string>
+    <string name="herb_6_Ginger">Ginger</string>
+    <string name="herb_6_Ginger_description">Ginger helps with digestion and heart problems. Ginger is most noticeably
+        used in Ginger ale, which is commonly used to treat slight nausea.
+    </string>
+    <string name="herb_7_Licorice">Licorice</string>
+    <string name="herb_7_Licorice_description">Licorice is an immunity booster that helps fight pain, stress, and
+        chronic fatigue.
+    </string>
+    <string name="herb_8_Ephedra">Ephedra</string>
+    <string name="herb_8_Ephedra_description">Ephedra is an energy booster that increase the speed at which all organs
+        in your body function. This includes the brain. As a result of this, it boosts immunity, cognition, and weight
+        loss.
+    </string>
+    <string name="herb_9_Peony">Peony</string>
+    <string name="herb_9_Peony_description">Peony is a great herb for the heart, chronic fatigue, stomach issues, and
+        hemorrhoids.
+    </string>
+    <string name="herb_10_Rhubarb">Rhubarb</string>
+    <string name="herb_10_Rhubarb_description">Rhubarb is an herb that's great for boosting the immune system and has
+        shown to have significant effects in stopping diseases.
+    </string>
+    <string name="herb_11_Salvia">Salvia</string>
+    <string name="herb_11_Salvia_description">Salvia is a hallucinogen drug that has been used for a long time to help
+        individuals who deal with depression. In high amounts, this herb will cause a full on hallucination that will
+        last for around 15 minutes and will leave most individuals in a much calmer state.
+    </string>
+
 
     <!--Chapter 1 - Wood Element Diet-->
     <!--木元素饮食 (Mù yuánsù yǐnshí)-->
@@ -290,79 +326,105 @@
 
     <!--Fire Element Diet-->
     <string name="fire_element_diet_title">Fire Element Diet
-    \n火元素饮食(Huǒ yuánsù yǐnshí)</string>
-    <string name="fire_element_diet_description">Passionate Individuals, Acid Reflux Issues, High Blood Pressure, Circulatory Issues
-    \nSuggested Foods: Warm Spicy Foods
-    \nSuggested Herbs: Ginger, Salvia, Peony, Cinnamon, Dang Gui
-    \nEnvironment Time: Summer
-    \nThis Diet is designed for those who tend to be really focused and passionate.
-    \n\nPhysical Exercise, Chai Tea, and Lavender Tea
-    \nPhysical Exercise does quite a few things for you beyond getting you into shape. For a fire person, this tends to relate towards having issues with the heart. When you stand or sit for long periods of time, the veins in your legs begin to grow smaller as the muscles that pump the blood through grow weaker. This lack of blood flow not only risks a blood clot, but also causes a litany of other heart issues. By simply walking outside for a couple of hours, one can see that they have less and less of these issues.
-    \n\nTea is an excellent way to compliment meals and different teas have different effects. Chai tea usually has a compound of Black Pepper or Cinnamon while Lavender Tea provides a calming effect and helps to relax the muscles. Black Pepper and Cinnamon are both good for your heart as they fight off the intake of fats entering your bloodstream. They also help to lower overall blood pressure given enough time. However, an unspoken aspect about heart related problems are the muscles around the veins. If you are in the cold a lot, stay in position for long periods of time, or lift heavy objects then you have likely felt the cramps in your body. We have small, medium, and large cramps throughout our body. What we are talking about here are the small and medium cramps, the ones we know as a twitch in a certain area. These twitches represent the fact that the muscles are pushing in on the veins. Lavender Tea helps relieve the twitching and relax the muscles so that this doesn't happen as often or at all.
-    \n\nCore Ingredients Specifically Designed for the Fire Element Diet
-    \nRed Lentil Beans, Ginger Root, Pepper, Sunflower Seeds, Pistachio Seeds, Cherry, Red Bell Pepper, Tomatoes, Jalapeno Peppers, Habanero Peppers, Tomatoes, Corn
-    \nThe core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.</string>
+        \n火元素饮食(Huǒ yuánsù yǐnshí)
+    </string>
+    <string name="fire_element_diet_description">Passionate Individuals, Acid Reflux Issues, High Blood Pressure,
+        Circulatory Issues
+        \nSuggested Foods: Warm Spicy Foods
+        \nSuggested Herbs: Ginger, Salvia, Peony, Cinnamon, Dang Gui
+        \nEnvironment Time: Summer
+        \nThis Diet is designed for those who tend to be really focused and passionate.
+        \n\nPhysical Exercise, Chai Tea, and Lavender Tea
+        \nPhysical Exercise does quite a few things for you beyond getting you into shape. For a fire person, this tends
+        to relate towards having issues with the heart. When you stand or sit for long periods of time, the veins in
+        your legs begin to grow smaller as the muscles that pump the blood through grow weaker. This lack of blood flow
+        not only risks a blood clot, but also causes a litany of other heart issues. By simply walking outside for a
+        couple of hours, one can see that they have less and less of these issues.
+        \n\nTea is an excellent way to compliment meals and different teas have different effects. Chai tea usually has
+        a compound of Black Pepper or Cinnamon while Lavender Tea provides a calming effect and helps to relax the
+        muscles. Black Pepper and Cinnamon are both good for your heart as they fight off the intake of fats entering
+        your bloodstream. They also help to lower overall blood pressure given enough time. However, an unspoken aspect
+        about heart related problems are the muscles around the veins. If you are in the cold a lot, stay in position
+        for long periods of time, or lift heavy objects then you have likely felt the cramps in your body. We have
+        small, medium, and large cramps throughout our body. What we are talking about here are the small and medium
+        cramps, the ones we know as a twitch in a certain area. These twitches represent the fact that the muscles are
+        pushing in on the veins. Lavender Tea helps relieve the twitching and relax the muscles so that this doesn't
+        happen as often or at all.
+        \n\nCore Ingredients Specifically Designed for the Fire Element Diet
+        \nRed Lentil Beans, Ginger Root, Pepper, Sunflower Seeds, Pistachio Seeds, Cherry, Red Bell Pepper, Tomatoes,
+        Jalapeno Peppers, Habanero Peppers, Tomatoes, Corn
+        \nThe core ingredients represent the part of the recipes that are the root of the specific diet. These are foods
+        specifically designed to help those of the element and the rest of the ingredients are just there to make a
+        tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't
+        forget to look just below the Element title to find the suggested foods.
+    </string>
 
     <!--Fire Element Recipes-->
     <string name="fire_recipe_1">与向日葵种子的红色小扁豆汤
-    \n (Yǔ xiàngrìkuí zhǒngzǐ de hóngsè xiǎo biǎndòu tāng) Lentil Soup with Sunflower Seeds or Pistachio Seeds
-    \n\n Ingredients
-    \n • 1 Ginger Root (2 tsp., diced)
-    \n • 1 Cup of Red Lentil Beans (cooked)
-    \n • 1 Tsp Pepper (Spicier equals better for you)
-    \n • 2 Cups Water
-    \n • A cup of Sunflower or Pistachio Seeds (optional)
-    \n\n Directions
-    \n Place the water in a pot.
-    \n Bring pot to a boil.
-    \n Add ingredients.
-    \n Lower to a medium and cover.
-    \n Stir occasionally until half of the water has been boiled out.
-    \n Serve with seeds on the side.</string>
+        \n (Yǔ xiàngrìkuí zhǒngzǐ de hóngsè xiǎo biǎndòu tāng) Lentil Soup with Sunflower Seeds or Pistachio Seeds
+        \n\n Ingredients
+        \n • 1 Ginger Root (2 tsp., diced)
+        \n • 1 Cup of Red Lentil Beans (cooked)
+        \n • 1 Tsp Pepper (Spicier equals better for you)
+        \n • 2 Cups Water
+        \n • A cup of Sunflower or Pistachio Seeds (optional)
+        \n\n Directions
+        \n Place the water in a pot.
+        \n Bring pot to a boil.
+        \n Add ingredients.
+        \n Lower to a medium and cover.
+        \n Stir occasionally until half of the water has been boiled out.
+        \n Serve with seeds on the side.
+    </string>
     <string name="fire_recipe_2">樱桃沙拉
-    \n (Yīngtáo shālā) Cherry Salad
-    \n\n Ingredients
-    \n • As many cherries as you want
-    \n • 1 Red Bell Pepper (diced)
-    \n • A few cherry tomatoes
-    \n • A bowl of Iceberg or Spinach lettuce (chopped)
-    \n\n Directions
-    \n Put this into a bowl and serve as you like.</string>
+        \n (Yīngtáo shālā) Cherry Salad
+        \n\n Ingredients
+        \n • As many cherries as you want
+        \n • 1 Red Bell Pepper (diced)
+        \n • A few cherry tomatoes
+        \n • A bowl of Iceberg or Spinach lettuce (chopped)
+        \n\n Directions
+        \n Put this into a bowl and serve as you like.
+    </string>
     <string name="fire_recipe_3">基本的自创德国泡菜
-    \n (Jīběn de zì chuàng déguó pàocài) Basic Homemade Sauerkraut
-    \n\n Ingredients
-    \n • A couple Mason Jars
-    \n • A mixing bowl
-    \n • Ingredients
-    \n • 1 Head of Cabbage (sliced extremely thin)
-    \n • 1/2 Tbsp of Salt
-    \n\n Directions
-    \n Mix the salt deeply into the cabbage.
-    \n Do this until there is a visible liquid (not dripping) when you pick some up and squeeze.
-    \n Put it in a couple of jars.
-    \n Pack it down into the jar and if the cabbage isn't submerge in its own liquid then you should add water.
-    \n Leave out in a room temp environment for a couple of weeks and add water if it goes below the cabbage. Around 2 weeks.</string>
+        \n (Jīběn de zì chuàng déguó pàocài) Basic Homemade Sauerkraut
+        \n\n Ingredients
+        \n • A couple Mason Jars
+        \n • A mixing bowl
+        \n • Ingredients
+        \n • 1 Head of Cabbage (sliced extremely thin)
+        \n • 1/2 Tbsp of Salt
+        \n\n Directions
+        \n Mix the salt deeply into the cabbage.
+        \n Do this until there is a visible liquid (not dripping) when you pick some up and squeeze.
+        \n Put it in a couple of jars.
+        \n Pack it down into the jar and if the cabbage isn't submerge in its own liquid then you should add water.
+        \n Leave out in a room temp environment for a couple of weeks and add water if it goes below the cabbage. Around
+        2 weeks.
+    </string>
     <string name="fire_recipe_4">自创辣波兰香肠
-    \n (Zì chuàng là bōlán xiāngcháng) Homemade Spicy Polish Sausage
-    \n\n Items
-    \n • 1 Sausage Stuffer
-    \n • Your Preferred Meat Casing
-    \n\n Ingredients
-    \n • Usually pork, but it can be any meat you want
-    \n • 1 Cup or Bowl of Jalapenos or Habaneros, whichever you can eat and handle
-    \n\n Directions
-    \n Mix the peppers with the meat.
-    \n Put the meat in the casings.
-    \n Use when ready.</string>
+        \n (Zì chuàng là bōlán xiāngcháng) Homemade Spicy Polish Sausage
+        \n\n Items
+        \n • 1 Sausage Stuffer
+        \n • Your Preferred Meat Casing
+        \n\n Ingredients
+        \n • Usually pork, but it can be any meat you want
+        \n • 1 Cup or Bowl of Jalapenos or Habaneros, whichever you can eat and handle
+        \n\n Directions
+        \n Mix the peppers with the meat.
+        \n Put the meat in the casings.
+        \n Use when ready.
+    </string>
     <string name="fire_recipe_5">波兰意粉
-    \n (Bōlán yì fěn) Polish Spaghetti
-    \n\n Ingredients
-    \n • 2 Cups of Sauerkraut[known as Kielbasa] (homemade preferred)
-    \n • 1 16 ounce of any noodles (cooked)
-    \n • 1 Package of Spicy Polish Sausages (homemade preferred)
-    \n • 1 Diced Red Bell Pepper
-    \n • 5 Fresh Tomatoes (diced)
-    \n • 1 Bowl of Corn (home grown or farm purchased preferred)
-    \n\n Directions
-    \n Mix and Enjoy.</string>
+        \n (Bōlán yì fěn) Polish Spaghetti
+        \n\n Ingredients
+        \n • 2 Cups of Sauerkraut[known as Kielbasa] (homemade preferred)
+        \n • 1 16 ounce of any noodles (cooked)
+        \n • 1 Package of Spicy Polish Sausages (homemade preferred)
+        \n • 1 Diced Red Bell Pepper
+        \n • 5 Fresh Tomatoes (diced)
+        \n • 1 Bowl of Corn (home grown or farm purchased preferred)
+        \n\n Directions
+        \n Mix and Enjoy.
+    </string>
 </resources>

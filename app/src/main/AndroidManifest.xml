@@ -10,8 +10,7 @@
             android:theme="@style/AppTheme">
         <activity
                 android:name=".SplashScreen"
-                android:theme="@style/Theme.AppCompat.NoActionBar"
-        >
+                android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -19,6 +18,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".LandingPage">
+        </activity>
+        <activity android:name=".FireRecipesActivity">
+        </activity>
+        <activity android:name=".FiveElementDietActivity">
+        </activity>
+        <activity android:name=".HerbsActivity">
         </activity>
     </application>
 
