@@ -1,0 +1,368 @@
+<resources>
+    <string name="app_name">ChineseMedicinalApplication</string>
+    Chinese Herbs
+    Underneath each section, you will find a Suggest Herbs for that section but you will find out what they do here. These herbs can go into any recipe that we provide you and these are Chinese Herbs that are in current use today. These are the most popular of all the Chinese Herbs and are a footstep into Chinese Herbology. Chinese Herbology is not strictly plants, albeit the name suggests otherwise, but rather a mixture of plants and herbs along with other common food ingredients. The idea is to mix these foods into your diet so that you can improve via your food, which we therefore will go over the 5 Element Diet, which is a Chinese Diet that is specifically intended to help your specific area of issue improve over time.
+    Ginseng
+    Ginseng will target Organ issues in general dealing with the blood cleansing, so Heart, Kidney, Liver, and Lungs.
+    Ginko
+    Gino is a herb that specifically helps the brain and is used in common practice for issues like Lyme disease and depression.
+    Shiitake Mushrooms
+    Shiitake Mushrooms have been documented in being able to reduce the cholesterol in the heart, increase the protection against heart disease, and is a wonderful anti-oxidant.
+    Dang Gui
+    Dang Gui is another herb that helps with the heart and the circulation flow, but it's specifically beneficial to women and not so much men as it boosts their reproductive health by balancing estrogen.
+    Cinnamon
+    Cinnamon is a well known herb, both for medicinal and sweet tooth reasons. It's good for the heart, helps fight diabetes, cognitive decline, infections, dental disease and has a lot of anti-oxidants in it.
+    Ginger
+    Ginger helps with digestion and heart problems. Ginger is most noticeably used in Ginger ale, which is commonly used to treat slight nausea.
+    Licorice
+    Licorice is an immunity booster that helps fight pain, stress, and chronic fatigue.
+    Ephedra
+    Ephedra is an energy booster that increase the speed at which all organs in your body function. This includes the brain. As a result of this, it boosts immunity, cognition, and weight loss.
+    Peony
+    Peony is a great herb for the heart, chronic fatigue, stomach issues, and hemorrhoids.
+    Rhubarb
+    Rhubarb is an herb that's great for boosting the immune system and has shown to have significant effects in stopping diseases.
+    Salvia
+    Salvia is a hallucinogen drug that has been used for a long time to help individuals who deal with depression. In high amounts, this herb will cause a full on hallucination that will last for around 15 minutes and will leave most individuals in a much calmer state.
+    Page Break
+
+    <!--Chapter 1 - Wood Element Diet-->
+    <!--木元素饮食 (Mù yuánsù yǐnshí)-->
+    <!--Spring Time, Green Foods, Rooted Thin Individuals-->
+    <!--Suggested Foods: Sour Foods-->
+    <!--Suggested Herbs: Shiitake Mushrooms, Cinnamon, Ginger, Peony, Ephedra-->
+    <!--Environment Time: Spring-->
+    <!--The Diet is designed for those who have Digestive Issues-->
+    <!--Physical Exercise, Probiotics and Reading-->
+    <!--Physical Exercise does quite a few things for you beyond getting you into shape. When you go for long periods without exercise, the digestive system tends to backtrack and you get a lot of issues due to a lack of burning calories and nutrients. Your body is a need only system in that it only uses what it needs. Therefore, if you tend to not burn a lot of calories then it will stop digesting large parts of the food in order to cope with this. This causes the intestinal lining to have food lodged within areas of itself and issues like GERD begin to develop as bacteria are allowed to feed on the food that's there for a prolonged period of time. When you exercise, the food is immediately burned in an attempt to balance out the fat that you have burned and the nutrients you have used.-->
+    <!--There are bad bacteria and good bacteria, and what we want are the good bacteria. This type of bacteria tends to clean the intestine walls, break down food faster, and come in the form of Probiotics. Probiotics come in cultures of bacteria and this is important because these cultures are different types of bacteria. This increase in variety makes the intestines stronger and able to handle large quantities of food. Without a healthy amount of good bacteria, the bad bacteria begins to poison the remainder of the body.-->
+    <!--Reading stimulates the mind and provides an individual with a goal. Humans are naturally tied to goals and when we experience continuous issues with achieving goals, this can begin to affect our health and our attitude. When our attitude goes down, so does our health due to the fact that our brain sends out a chemical, Cortisol, which has several damaging effects throughout the body. By setting goals with easier tasks, such as reading, an individual begins to feel like they have achieved something and this leads to a decrease in Cortisol.-->
+    <!--Recipes-->
+    <!--Core Ingredients Specifically Designed for the Wood Element Diet-->
+    <!--Oats, Green Lentil, Lima, Brazil, Cashew, Green Bell Pepper, Zucchini, Grape-->
+    <!--The core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.-->
+    <!--扁豆汤与巴西坚果或腰果-->
+    <!--(Biǎndòu tāng yǔ bāxī jiānguǒ huò yāoguǒ) Lentil Soup with Brazil Nuts or Cashews-->
+    <!--Ingredients-->
+    <!--1 Zucchini (2 tsp., diced)-->
+    <!--1 Cup of Green Lentil Beans (cooked)-->
+    <!--1 Tsp Pepper (Spicier equals better for you)-->
+    <!--2 Cups Water-->
+    <!--A cup of Brazil or Cashew Nuts (optional)-->
+    <!--Directions-->
+    <!--Place the water in a pot.-->
+    <!--Bring pot to a boil.-->
+    <!--Add ingredients.-->
+    <!--Lower to a medium and cover.-->
+    <!--Stir occasionally until half of the water has been boiled out.-->
+    <!--Serve with seeds on the side.-->
+    <!--葡萄沙拉-->
+    <!--(Pútáo shālā) Grape Salad-->
+    <!--Ingredients-->
+    <!--As many grapes as you want-->
+    <!--1 Red Bell Pepper (diced)-->
+    <!--A cup of Lima beans-->
+    <!--A cup of Green peas-->
+    <!--A lemon zest-->
+    <!--A bowl of Iceberg or Spinach lettuce (chopped)-->
+    <!--Directions-->
+    <!--Put this into a bowl and serve as you like.-->
+    <!--肉的甜椒-->
+    <!--(Ròu de tián jiāo) Meaty Bell Pepper-->
+    <!--Ingredients-->
+    <!--1 Green Bell Pepper-->
+    <!--1/2 cup shredded Iceberg or Spinach Lettuce-->
+    <!--¼ Cup Meat (Cooked)-->
+    <!--Avocado (optional)-->
+    <!--Directions-->
+    <!--Hollow out the Bell Pepper from the top. It should look like a vegetable cup.-->
+    <!--Add the ingredients inside the pepper and stir.-->
+    <!--You can serve it like this or try to make a version you prefer more.-->
+    <!--甜燕麦粥-->
+    <!--(Tián yànmài zhōu) Sweet Oatmeal-->
+    <!--Ingredients-->
+    <!--1 Cup of Instant Oats-->
+    <!--2 Cups of Water-->
+    <!--A couple Grapes-->
+    <!--A Diced Apple-->
+    <!--Directions-->
+    <!--Place Instant Oats in a bowl and add water.-->
+    <!--Microwave for 1 minute and 30 seconds.-->
+    <!--While it cooks, squash the grapes in a bowl or cup.-->
+    <!--Once Oats are done, take it out and put grapes and apples in it.-->
+    <!--Heat for another 1 minute and 30 seconds.-->
+    <!--Serve Warm-->
+
+    <!--Page Break-->
+
+    <!--Chapter 2 - Earth Element Diet-->
+    <!--地球元素饮食 (Dìqiú yuánsù yǐnshí)-->
+    <!--Usual Problems: People Who Worry, Anxiety Issues-->
+    <!--Suggested Foods: Mildly Sweet Warming Vegetables-->
+    <!--Suggested Herbs: Salvia, Peony, Ephedra, Ginko-->
+    <!--Environment Time: Later Summer through Early Fall-->
+    <!--The Diet is designed for those who are a bit round in shape.-->
+    <!--Physical Exercise, Probiotics. Warm Foods, and a Breathing Practice-->
+    <!--Physical Exercise does quite a few things for you beyond getting you into shape. When you go for long periods without exercise, the digestive system tends to backtrack and you get a lot of issues due to a lack of burning calories and nutrients. Your body is a need only system in that it only uses what it needs. Therefore, if you tend to not burn a lot of calories then it will stop digesting large parts of the food in order to cope with this. This causes the intestinal lining to have food lodged within areas of itself and issues like GERD begin to develop as bacteria are allowed to feed on the food that's there for a prolonged period of time. When you exercise, the food is immediately burned in an attempt to balance out the fat that you have burned and the nutrients you have used.-->
+    <!--There are bad bacteria and good bacteria, and what we want are the good bacteria. This type of bacteria tends to clean the intestine walls, break down food faster, and come in the form of Probiotics. Probiotics come in cultures of bacteria and this is important because these cultures are different types of bacteria. This increase in variety makes the intestines stronger and able to handle large quantities of food. Without a healthy amount of good bacteria, the bad bacteria begins to poison the remainder of the body.-->
+    <!--When your body digests something, it first has to heat it up to your body's temperature. Temporarily, your body increases the acid in your stomach so that it can turn the temperature up in the food while also breaking it down. As the temperature gets to your own body's temperature, it also begins to dissolve at the same rate. This excess in acid can be a root cause in Acid Reflux and diseases caused by Acid Reflux. At the same time, the body loses heat in this process much like water first drops in temperature when ice is introduced into it but will eventually climb back up. This causes the body to tense up, which results in more Cortisol being dumped into your body. By introducing warm foods into your diet, you speed up digestion so that it doesn't take as much acid to dissolve it and you also warm your body to an increase temperature, which relaxes your muscles instead.-->
+    <!--The last problem is anxiety or worrying all the time and this can be managed with breathing activities for a good portion. This is normally caused by an imbalance of cortisol and an easy way to deplete that hormone is to perform a simple breathing exercise.-->
+    <!--Pinch the bridge of your nose.-->
+    <!--Open your mouth wide and breath in deeply.-->
+    <!--Hold this breath for 10 seconds.-->
+    <!--Form your mouth as if you are about to suck out of a straw.-->
+    <!--Breath out as slowly as you can.-->
+    <!--Repeat this a couple times.-->
+    <!--This should help you to immediately relax when you feel that you are worrying about something or feel anxiety.-->
+    <!--Recipes-->
+    <!--Core Ingredients Specifically Designed for the Earth Element Diet-->
+    <!--Peas, Pumpkin, Carrot, Pineapple, Orange, Strawberry, Carrot, Spinach, Pine Nuts-->
+    <!--The core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.-->
+    <!--与松果的豌豆汤-->
+    <!--(Yǔ sōng guǒ de wāndòu tāng) Pea Soup with Pine Nuts-->
+    <!--Ingredients-->
+    <!--1 Ginger Root (2 tsp., diced)-->
+    <!--1 Cup of Peas (cooked)-->
+    <!--1 Tsp Pepper (Spicier equals better for you)-->
+    <!--2 Cups Water-->
+    <!--A cup of Pine Nuts (optional)-->
+    <!--Directions-->
+    <!--Place the water in a pot.-->
+    <!--Bring pot to a boil.-->
+    <!--Add ingredients.-->
+    <!--Lower to a medium and cover.-->
+    <!--Stir occasionally until half of the water has been boiled out.-->
+    <!--Serve with seeds on the side.-->
+    <!--萝卜沙拉-->
+    <!--(Luóbo shālā) Carrot Salad-->
+    <!--Ingredients-->
+    <!--As many cherries as you want-->
+    <!--3 Carrot(diced)-->
+    <!--A Peeled Orange-->
+    <!--A Bowl of Cut Pineapple-->
+    <!--A Bowl of Slice Strawberries-->
+    <!--A few cherry tomatoes-->
+    <!--A bowl of Iceberg or Spinach lettuce (chopped)-->
+    <!--Directions-->
+    <!--Put this into a bowl and serve as you like.-->
+    <!--自创南瓜饼-->
+    <!--(Zì chuàng nánguā bǐng) Homemade Pumpkin Pie-->
+    <!--A ¼ cup of Truvia (organic)-->
+    <!--1 1/2 tsp. Pumpkin Pie Spice-->
+    <!--1/2 tsp. Cinnamon-->
+    <!--1/2 tsp. Of shaved ginger-->
+    <!--1 can 15 oz pumpkin-->
+    <!--1 1/4 cups evaporated milk or half and half-->
+    <!--2 eggs, beaten-->
+    <!--1 Pillsbury™ Pet-Ritz® frozen deep-dish pie crust-->
+    <!--Directions-->
+    <!--Preheat the oven to 425 deg F.-->
+    <!--Mix and pour into crust-->
+    <!--Bake 15 minutes-->
+    <!--Reduce to 345 deg F-->
+    <!--Continue cooking for another hour.-->
+    <!--Once done, pull it out and let cool for a couple of hours.-->
+
+    <!--Page Break-->
+
+    <!--Chapter 3 - Metal Element Diet-->
+    <!--金属元素饮食 (Jīnshǔ yuánsù yǐnshí)-->
+    <!--Usual Problems: Grievers, Depression, Immune System Issues-->
+    <!--Suggested Foods: White Foods-->
+    <!--Suggested Herbs: Salvia, Rhubarb, Peony, Licorice, Cinnamon, Shiitake Mushrooms-->
+    <!--Environment Time: Autumn-->
+    <!--The Diet is designed for those who are muscularly built.-->
+    <!--Physical Exercise, Peppermint Tea, and Warm Baths-->
+    <!--Physical Exercise does quite a few things for you beyond getting you into shape. When you go for long periods without exercise, the digestive system tends to backtrack and you get a lot of issues due to a lack of burning calories and nutrients. Your body is a need only system in that it only uses what it needs. Therefore, if you tend to not burn a lot of calories then it will stop digesting large parts of the food in order to cope with this. This causes the intestinal lining to have food lodged within areas of itself and issues like GERD begin to develop as bacteria are allowed to feed on the food that's there for a prolonged period of time. A mostly unknown aspect about this is that these bacteria send toxins into the body, which then raises the immune response for the bacteria but, much like an army, when you allocate too many soldiers the immune system only has so many white blood cells. Therefore, you run into colds more and get infected more easily than your other counterparts. When you exercise, the food is immediately burned in an attempt to balance out the fat that you have burned and the nutrients you have used. Not only this, but exercise promotes your bone structure and considering that white blood cells come from bone marrow, this means you immune system will increase in its efficiency.-->
+    <!--Tea is an excellent way to compliment meals and different teas have different effects. Peppermint Tea is especially good for those who get sick a lot as the peppermint acts as a airborne menthol, which means that it will help break up the mucus so that your body can handle it. It also helps relieve mental stress, excess gas, bloating, cramping, motion sickness, and can even reduce fevers.-->
+    <!--Oddly enough, a nice warm bath would be good for a person who needs to follow the Metal Element Diet. Their muscular build has a tendency to work against itself, causing the consistent muscle cramps and overall sickness. Pain is caused by the brain and if we didn't have the brain to tell us we were in pain, we'd be in a lot of trouble. When you apply heat to an area that is under pain, it deactivates the pain receptors and shuts off the signals to the brain. This results in a loss of pain and a release of endorphins, your natural happy-go-lucky hormone.-->
+    <!--Recipes-->
+    <!--Core Ingredients Specifically Designed for the Metal Element Diet-->
+    <!--Navy Beans, Almonds, Broccoli, Celery, Onion, Lettuce-->
+    <!--The core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.-->
+    <!--与向日葵种子的红色小扁豆汤-->
+    <!--Navy Bean Soup with Almonds (Yǔ xiàngrìkuí zhǒngzǐ de hóngsè xiǎo biǎndòu tāng)-->
+    <!--Ingredients-->
+    <!--1 Ginger Root (2 tsp., diced)-->
+    <!--1 Cup of Navy Beans (cooked)-->
+    <!--1 Tsp Pepper (Spicier equals better for you)-->
+    <!--2 Cups Water-->
+    <!--A cup of Almonds (optional)-->
+    <!--Directions-->
+    <!--Place the water in a pot.-->
+    <!--Bring pot to a boil.-->
+    <!--Add ingredients.-->
+    <!--Lower to a medium and cover.-->
+    <!--Stir occasionally until half of the water has been boiled out.-->
+    <!--Serve with seeds on the side.-->
+    <!--生菜-->
+    <!--(Shēngcài)Green Salad-->
+    <!--Ingredients-->
+    <!--Some Broccoli-->
+    <!--A few Sticks of Celery-->
+    <!--A Cup of Diced Onion-->
+    <!--A bowl of Iceberg or Spinach lettuce (chopped)-->
+    <!--Directions-->
+    <!--Put this into a bowl and serve as you like.-->
+    <!--饭团-->
+    <!--(Fàntuán) Onigiri (Rice Ball)-->
+    <!--Ingredients-->
+    <!--2 Cups of Japanese Style Rice (Sushi Rice)-->
+    <!--Whatever you want inside of it-->
+    <!--8 Cups Water for boiling-->
+    <!--Seaweed Wraps-->
+    <!--Sugar-->
+    <!--Salt-->
+    <!--A bowl of water-->
+    <!--Directions-->
+    <!--Bring the water to a boil in a pot.-->
+    <!--Add the rice in and let it cook for up to 30 minutes. You want to see the water level go underneath the top layer of rice. Stir occasionally.-->
+    <!--Take it off the heat and wait until you can touch it.-->
+    <!--Make a ball. Scoop out the center, but make sure you keep the sides and bottom thick with rice.-->
+    <!--Add your ingredients.-->
+    <!--Pile rice on top of that.-->
+    <!--Wrap it with a rectangle of seaweed, your preference.-->
+    <!--Page Break-->
+
+    <!--Chapter 4 - Water Element Diet-->
+    <!--水元素饮食 (Shuǐ yuánsù yǐnshí)-->
+    <!--Usual Problems: Health of Kidneys and Adrenals, Infections, Chronic Fatigue or Hormone Imbalance-->
+    <!--Suggested Foods: Dark Colored Nutritious Foods-->
+    <!--Suggested Herbs: Ginseng, Ginko, Shiitake Mushrooms, Cinnamon, Peony, Salvia-->
+    <!--Environment Time: Winter-->
+    <!--The Diet is designed for those who tend to be fearful a lot.-->
+    <!--Physical Exercise, Liquids, Detoxification-->
+    <!--Physical exercise does quite a few things for you beyond getting you into shape. For a water person, this tends to be related towards issues with the fluids in your body. This means that there is an off balance of the fluids and only with persistence can you correct the imbalances. When you exercise, the nutrients in your body begin to move around a lot more and this includes the fluids you will need to keep your health up.-->
+    <!--There are a few liquids that can help clean up infections that are common ingredients in most drinks. Of course, water is very important for keeping the body clean but make sure the PH level is balanced at around 7-8. I am well aware that many are claiming that a high PH level is very good for you, but the PH level is only important if your body is already acidic. Otherwise, you need to look for products that provide you with naturally refined minerals that will build on what's already there for your body.-->
+    <!--This brings us to Tea, which is going to be very good for you because it solely deals in liquids. On a regular basis I consume Lily, Earl Grey, Chai, Vanilla, White, and Green tea at varying amounts.  Lily, Earl, White, and Green Tea are all very good at detoxification. White is good for weight loss, Lily is great for stomach issues, Chai is good for the heart, and Green is good for overall health. Detoxifying teas are Lemongrass, Ginger, Dandelion, and Milk Thistle.-->
+    <!--Recipes-->
+    <!--Core Ingredients Specifically Designed for the Water Element Diet-->
+    <!--Aduki beans, walnuts, Kale, Sesame seeds. Watermelon, Salted Cashews-->
+    <!--The core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.-->
+    <!--味噌汤用(小豆)豆和核桃-->
+    <!--(Wèizēng tāng yòng (Aduki) dòu hé hétáo) Miso Soup with Aduki(Adzuki) beans and Walnuts-->
+    <!--Note: Aduki is the original Mandarin name. The parenthesis is wrapped around the translation of "bean" because Aduki has no other translation beyond Aduki.-->
+    <!--Ingredients-->
+    <!--1 Ginger Root (2 tsp., diced)-->
+    <!--1 Cup of Aduki Beans (cooked)-->
+    <!--3Tbs. Miso Paste-->
+    <!--1 Tsp Pepper (Spicier equals better for you)-->
+    <!--2 Cups Water-->
+    <!--A cup of Walnuts (optional)-->
+    <!--Directions-->
+    <!--Place the water in a pot.-->
+    <!--Bring pot to a boil.-->
+    <!--Add ingredients.-->
+    <!--Lower to a medium and cover.-->
+    <!--Stir occasionally until half of the water has been boiled out. This should be about 15 minutes.-->
+    <!--Serve with seeds on the side.-->
+    <!--亚洲沙拉-->
+    <!--(Yàzhōu shālā) Asian Salad-->
+    <!--Ingredients-->
+    <!--1 40z can of Water Chestnuts-->
+    <!--2 tsp. Sesame seeds-->
+    <!--1 Red Bell Pepper (diced)-->
+    <!--A few Sliced Shiitake Mushrooms-->
+    <!--A bowl of Cabbage or Kale lettuce (chopped)-->
+    <!--As many Mandarin Orange slices as you would like-->
+    <!--1-3 tbps. Apple Cider Vinegar (optional)-->
+    <!--Directions-->
+    <!--Put this into a bowl and serve as you like.-->
+    <!--亚洲西瓜沙拉-->
+    <!--(Yàzhōu xīguā shālā) Asian Watermelon Salad-->
+    <!--1/2 cup of Peanut Oil-->
+    <!--2 Small Shallots(1 sliced, 1 thinly sliced)-->
+    <!--1 2-inch Ginger (minced)-->
+    <!--4 cups Chopped Watermelon-->
+    <!--3 tablespoons of Salted Cashews-->
+    <!--1 Tbsp. Soy Sauce-->
+    <!--1 Tbsp. Fish Sauce-->
+    <!--1/3 Cup of Salvia (chopped)-->
+    <!--1/3 Cup of Kale (chopped)-->
+    <!--Directions-->
+    <!--Heat the peanut oil in a pan to 360 degs F.-->
+    <!--Add shallots.-->
+    <!--Cook until golden and drain with paper towels.-->
+    <!--Add, in a separate bowl, all the remaining liquids and spices, and whisk them together.-->
+    <!--Add the watermelon and let stand for 20 minutes.-->
+    <!--Add the cooked and remaining ingredients.-->
+    <!--Enjoy-->
+
+    <!--Fire Element Diet-->
+    <string name="fire_element_diet_title">Fire Element Diet
+    \n火元素饮食(Huǒ yuánsù yǐnshí)</string>
+    <string name="fire_element_diet_description">Passionate Individuals, Acid Reflux Issues, High Blood Pressure, Circulatory Issues
+    \nSuggested Foods: Warm Spicy Foods
+    \nSuggested Herbs: Ginger, Salvia, Peony, Cinnamon, Dang Gui
+    \nEnvironment Time: Summer
+    \nThis Diet is designed for those who tend to be really focused and passionate.
+    \n\nPhysical Exercise, Chai Tea, and Lavender Tea
+    \nPhysical Exercise does quite a few things for you beyond getting you into shape. For a fire person, this tends to relate towards having issues with the heart. When you stand or sit for long periods of time, the veins in your legs begin to grow smaller as the muscles that pump the blood through grow weaker. This lack of blood flow not only risks a blood clot, but also causes a litany of other heart issues. By simply walking outside for a couple of hours, one can see that they have less and less of these issues.
+    \n\nTea is an excellent way to compliment meals and different teas have different effects. Chai tea usually has a compound of Black Pepper or Cinnamon while Lavender Tea provides a calming effect and helps to relax the muscles. Black Pepper and Cinnamon are both good for your heart as they fight off the intake of fats entering your bloodstream. They also help to lower overall blood pressure given enough time. However, an unspoken aspect about heart related problems are the muscles around the veins. If you are in the cold a lot, stay in position for long periods of time, or lift heavy objects then you have likely felt the cramps in your body. We have small, medium, and large cramps throughout our body. What we are talking about here are the small and medium cramps, the ones we know as a twitch in a certain area. These twitches represent the fact that the muscles are pushing in on the veins. Lavender Tea helps relieve the twitching and relax the muscles so that this doesn't happen as often or at all.
+    \n\nCore Ingredients Specifically Designed for the Fire Element Diet
+    \nRed Lentil Beans, Ginger Root, Pepper, Sunflower Seeds, Pistachio Seeds, Cherry, Red Bell Pepper, Tomatoes, Jalapeno Peppers, Habanero Peppers, Tomatoes, Corn
+    \nThe core ingredients represent the part of the recipes that are the root of the specific diet. These are foods specifically designed to help those of the element and the rest of the ingredients are just there to make a tasty recipe. If you would like to know what type of ingredients you can select for your specific diet, don't forget to look just below the Element title to find the suggested foods.</string>
+
+    <!--Fire Element Recipes-->
+    <string name="fire_recipe_1">与向日葵种子的红色小扁豆汤
+    \n (Yǔ xiàngrìkuí zhǒngzǐ de hóngsè xiǎo biǎndòu tāng) Lentil Soup with Sunflower Seeds or Pistachio Seeds
+    \n\n Ingredients
+    \n • 1 Ginger Root (2 tsp., diced)
+    \n • 1 Cup of Red Lentil Beans (cooked)
+    \n • 1 Tsp Pepper (Spicier equals better for you)
+    \n • 2 Cups Water
+    \n • A cup of Sunflower or Pistachio Seeds (optional)
+    \n\n Directions
+    \n Place the water in a pot.
+    \n Bring pot to a boil.
+    \n Add ingredients.
+    \n Lower to a medium and cover.
+    \n Stir occasionally until half of the water has been boiled out.
+    \n Serve with seeds on the side.</string>
+    <string name="fire_recipe_2">樱桃沙拉
+    \n (Yīngtáo shālā) Cherry Salad
+    \n\n Ingredients
+    \n • As many cherries as you want
+    \n • 1 Red Bell Pepper (diced)
+    \n • A few cherry tomatoes
+    \n • A bowl of Iceberg or Spinach lettuce (chopped)
+    \n\n Directions
+    \n Put this into a bowl and serve as you like.</string>
+    <string name="fire_recipe_3">基本的自创德国泡菜
+    \n (Jīběn de zì chuàng déguó pàocài) Basic Homemade Sauerkraut
+    \n\n Ingredients
+    \n • A couple Mason Jars
+    \n • A mixing bowl
+    \n • Ingredients
+    \n • 1 Head of Cabbage (sliced extremely thin)
+    \n • 1/2 Tbsp of Salt
+    \n\n Directions
+    \n Mix the salt deeply into the cabbage.
+    \n Do this until there is a visible liquid (not dripping) when you pick some up and squeeze.
+    \n Put it in a couple of jars.
+    \n Pack it down into the jar and if the cabbage isn't submerge in its own liquid then you should add water.
+    \n Leave out in a room temp environment for a couple of weeks and add water if it goes below the cabbage. Around 2 weeks.</string>
+    <string name="fire_recipe_4">自创辣波兰香肠
+    \n (Zì chuàng là bōlán xiāngcháng) Homemade Spicy Polish Sausage
+    \n\n Items
+    \n • 1 Sausage Stuffer
+    \n • Your Preferred Meat Casing
+    \n\n Ingredients
+    \n • Usually pork, but it can be any meat you want
+    \n • 1 Cup or Bowl of Jalapenos or Habaneros, whichever you can eat and handle
+    \n\n Directions
+    \n Mix the peppers with the meat.
+    \n Put the meat in the casings.
+    \n Use when ready.</string>
+    <string name="fire_recipe_5">波兰意粉
+    \n (Bōlán yì fěn) Polish Spaghetti
+    \n\n Ingredients
+    \n • 2 Cups of Sauerkraut[known as Kielbasa] (homemade preferred)
+    \n • 1 16 ounce of any noodles (cooked)
+    \n • 1 Package of Spicy Polish Sausages (homemade preferred)
+    \n • 1 Diced Red Bell Pepper
+    \n • 5 Fresh Tomatoes (diced)
+    \n • 1 Bowl of Corn (home grown or farm purchased preferred)
+    \n\n Directions
+    \n Mix and Enjoy.</string>
+</resources>
